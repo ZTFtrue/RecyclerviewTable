@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerTablet</string>
+    <string name="title_activity_all_icon">AllIconActivity</string>
+</resources>
