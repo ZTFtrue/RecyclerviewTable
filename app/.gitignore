@@ -1,1 +1,12 @@
+*.iml
+.hprof
+*.apk
+ app/release/
+.gradle
+local.properties
+/.idea
+.DS_Store
 /build
+/captures
+.externalNativeBuild
+/app/release
