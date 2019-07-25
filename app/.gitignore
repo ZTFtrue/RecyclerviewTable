@@ -1,7 +1,7 @@
 *.iml
 .hprof
 *.apk
- app/release/
+release/
 .gradle
 local.properties
 /.idea
